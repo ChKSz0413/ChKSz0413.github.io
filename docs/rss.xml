@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>ChKSz's Blog</title><link>https://ChKSz0413.github.io</link><description>简单的用来发一些文字的github博客！</description><copyright>ChKSz's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://chksz.top/d/ZL/logo.png</url><title>avatar</title><link>https://ChKSz0413.github.io</link></image><lastBuildDate>Tue, 17 Jun 2025 05:31:26 +0000</lastBuildDate><managingEditor>ChKSz's Blog</managingEditor><ttl>60</ttl><webMaster>ChKSz's Blog</webMaster><item><title>Proxy Everywhere!</title><link>https://ChKSz0413.github.io/post/Proxy%20Everywhere%21.html</link><description># 前言
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>PhantOmLigh</title><link>https://ChKSz0413.github.io</link><description>记录技术日常. 点点滴滴终将汇集成涓涓细流，流向大海.</description><copyright>PhantOmLigh</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://img.picui.cn/free/2025/06/17/6850f94d3e567.png</url><title>avatar</title><link>https://ChKSz0413.github.io</link></image><lastBuildDate>Tue, 17 Jun 2025 05:34:50 +0000</lastBuildDate><managingEditor>PhantOmLigh</managingEditor><ttl>60</ttl><webMaster>PhantOmLigh</webMaster><item><title>Proxy Everywhere!</title><link>https://ChKSz0413.github.io/post/Proxy%20Everywhere%21.html</link><description># 前言
 
 ## 安全声明
 **首先说明，这个项目仅供学习！
@@ -7,4 +7,4 @@
 
 
 ## 简介
-使用CloudFlare Workers + Github开源项目白嫖CF节点搭建的服务。</description><guid isPermaLink="true">https://ChKSz0413.github.io/post/Proxy%20Everywhere%21.html</guid><pubDate>Tue, 17 Jun 2025 05:31:01 +0000</pubDate></item><item><title>测试此博客</title><link>https://ChKSz0413.github.io/post/ce-shi-ci-bo-ke.html</link><description>测试本github博客。</description><guid isPermaLink="true">https://ChKSz0413.github.io/post/ce-shi-ci-bo-ke.html</guid><pubDate>Sat, 24 May 2025 01:04:56 +0000</pubDate></item></channel></rss>
+使用CloudFlare Workers + Github开源项目白嫖CF节点搭建的服务。</description><guid isPermaLink="true">https://ChKSz0413.github.io/post/Proxy%20Everywhere%21.html</guid><pubDate>Tue, 17 Jun 2025 05:31:01 +0000</pubDate></item></channel></rss>
